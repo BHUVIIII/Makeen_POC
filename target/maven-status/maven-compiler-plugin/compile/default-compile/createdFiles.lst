@@ -4,3 +4,4 @@ com\bhuvesh\makeenpoc\controller\PatientController.class
 com\bhuvesh\makeenpoc\controller\SearchController.class
 com\bhuvesh\makeenpoc\api\MakeenPoc.class
 com\bhuvesh\makeenpoc\pojo\Patients.class
+com\bhuvesh\makeenpoc\config\OpenSearchConfig.class
